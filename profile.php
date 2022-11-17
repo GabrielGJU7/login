@@ -53,7 +53,7 @@
                 <div class="flex items-center justify-center mt-3 mb-6 flex-col">
                     <h1 class="text-base text-gray-500 mb-6">Vinculación</h1>
                     <div class="flex mt-2">
-                        <button class="text-xs text-red-300 border-2 py-1 px-2 border-red-300 p-1 mr-3 h-10 w-20">Conocer</button>
+                        <button class="text-xs text-red-300 border-2 py-1 px-2 border-red-300 p-1 mr-3 h-10 w-20">CONOCER</button>
                         <button class="text-xs text-blue-600/100 border-2 py-1 px-2 border-yellow-300 p-1 mr-3 h-10 w-20">O*NET</button>
                         <button class="text-xs text-sky-300 border-2 py-1 px-2 border-sky-300 p-1 mr-3 h-10 w-20">ESCO</button>
                     </div>
